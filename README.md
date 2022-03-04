@@ -1,6 +1,11 @@
-### Olá, Me chamo Andressa Costa 🦋
+ ### Olá, Me chamo Andressa Costa 🦋
 - 🔭 Estudante de Sistema de Informação 👩‍🎓
 - 📫 Estudando para me tornar uma futura desenvolvedora fullstack
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressaccostta)](https://github.com/andressaccostta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressaccostta)](https://github.com/andressaccostta/github-readme-stats)
+
+
 
 <p align="center"><br>
   <img align="center" alt="Gabz-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -9,5 +14,3 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Gabz-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  
