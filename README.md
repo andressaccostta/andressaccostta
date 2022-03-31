@@ -1,12 +1,18 @@
- <h2 align="left">🦋  Olá, Me chamo Andressa Costa:</h2>
- - Estudante de Sistema de Informação 👩‍💻 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressaccostta&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressaccostta)](https://github.com/andressaccostta/github-readme-stats)
+
+ 
+ 
+ 
+ 
+ <h2 align="left"> 🌸 Olá, Me chamo Andressa Costa:</h2>
+ 
+  * Estudante - Universitária de TI ⚡
+  * Cursando - Sistema de Informação ⚡
+  * Futura desenvolvedora fullstack ⚡
  <br>
-- Estudando para me tornar uma futura desenvolvedora fullstack 🧠
-
-
-
-
-
+  
 
 <h2 align="left">:hammer_and_wrench: Tecnologias e Linguagens usadas:</h2>
 <p align="left">
@@ -21,6 +27,8 @@
  <img align="center" alt="Gabz-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressaccostta)](https://github.com/andressaccostta/github-readme-stats)
+  <h2 align="left"> 📞 Contato </h2>
+  https://linkedin.com/in/andressa-costa-682375184 
+ 
  
 
