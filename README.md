@@ -10,7 +10,7 @@
  
   * Estudante - Universitária de TI ⚡
   * Cursando - Sistema de Informação ⚡
-  * Futura desenvolvedora fullstack ⚡
+  * Futura desenvolvedora FrontEnd ⚡
  <br>
   
 
