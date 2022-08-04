@@ -9,8 +9,7 @@
  <h2 align="left"> 🌸 Olá, Me chamo Andressa Costa:</h2>
  
   * Estudante - Universitária de TI ⚡
-  * Cursando - Sistema de Informação ⚡
-  * Futura desenvolvedora FrontEnd ⚡
+ 
  <br>
   
 
